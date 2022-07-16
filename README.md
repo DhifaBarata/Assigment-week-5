@@ -1,4 +1,4 @@
 # Assigment-week-5
 
 Ini adalah Tugas assigment week 5 wiring diagram sensor
-![Assigment](Assigment.PNG)
+![Wearing temperature](Wearing%20temperature.JPEG)
